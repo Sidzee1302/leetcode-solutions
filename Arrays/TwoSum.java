@@ -1,6 +1,5 @@
-// My first GitHub commit
+package Arrays;
+
 public class TwoSum {
-    public static void main(String[] args) {
-        System.out.println("Hello GitHub!");
-    }
+    return n1+n2;
 }
